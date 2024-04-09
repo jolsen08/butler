@@ -1,0 +1,1 @@
+initial_welcome = 'With all of that in mind, write a paragraph or two about how you could help this person as their data analyst as if you are talking to them directly. Also, talk to this person fairly casually. Be personable. Keep it pretty short.'
