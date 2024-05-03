@@ -1,0 +1,3 @@
+user_id,column_1,column_2,group_by,order_by,vis_number
+dan,Industry,Total Revenue Generated,Industry,Total Revenue Generated,1
+dan,Contract Value,Total Ad Spend,None,None,2
